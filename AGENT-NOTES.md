@@ -1,0 +1,14 @@
+.gitignore
+.npmignore
+AGENT-NOTES.md
+LICENSE
+LICENSE-COMMERCIAL.md
+NOTICE
+README.ja.md
+README.md
+README.zh-CN.md
+client.js
+cordis.patch.yml
+package.json
+release-notes.md
+screenshots.json
